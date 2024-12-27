@@ -1,2 +1,3 @@
 # first-demo
-This is the first demo repository
+This is the first demo repository. 
+Author - Vikash kumar patel
